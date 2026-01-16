@@ -83,9 +83,3 @@ We welcome contributions! Please follow these guidelines:
 - Create a new branch for your feature or bug fix.
 - Make your changes and commit them.
 - Push your branch and create a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Special thanks to the contributors and the open-source community for their support and resources.
